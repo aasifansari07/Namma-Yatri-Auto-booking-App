@@ -1,0 +1,4 @@
+/* Q1: Total Trips? */
+
+Select count(distinct tripid) as total_trips from trip_details
+
